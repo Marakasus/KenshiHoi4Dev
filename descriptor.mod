@@ -1,8 +1,8 @@
-version="1"
+version="1.0"
 tags={
-	"Gameplay"
+	"Alternative History"
 }
-name="Kenshi update checker"
+name="kenshidevbuild"
 replace_path="common/abilities"
 replace_path="common/ai_areas"
 replace_path="common/ai_equipment"
