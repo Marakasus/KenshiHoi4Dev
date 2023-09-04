@@ -30,27 +30,31 @@ sub_units = {
 		
 		#Basic stats
 		manpower = 50                 # Manpower - Number of people in this batallion at full strength [standard 100]
-		max_organisation = 5          # Max Organization - [standard 60]
-		training_time = 90            # Training Time - in days [standard 120]
+		max_organisation = 10          # Max Organization - [standard 60]
+		training_time = 120            # Training Time - in days [standard 120]
 		default_morale = 0.2           # Default Morale - how much org regained hourly when not in combat [standard 0.3]
 		combat_width = 3               # Combat Width - [standard 2]
 		supply_consumption = 0.2      # Supply Consumption - [standard 0.06]
-		reliability = 0.5               # Reliability controls how often equipment will suffer random failures.
+		reliability = 0.6               # Reliability controls how often equipment will suffer random failures.
 		maximum_speed = 0             # How much faster / slower the unit moves
 
 		#Offense
-		soft_attack = 1.0              # Soft Attack - How many extra attacks the unit can make versus enemies with low hardness. [standard 0]
+		soft_attack = 2.0              # Soft Attack - How many extra attacks the unit can make versus enemies with low hardness. [standard 0]
 		hard_attack = 1.0              # Hard Attack - How many extra attacks the unit can make versus enemies with high hardness [standard 0]
 		ap_attack = 0                   # Piercing - Having equal or greater Piercing to the targets Armor value allows you to do more damage. [from 0-1]
 		breakthrough = 0              # Breakthrough - How many enemy attacks a unit can attempt to avoid while on the offensive, effectively allowing it to stay on the offense longer. [standard 0]
 		
 		
 		#Defense
-		defense = 0.0                   # Defense - How many enemy attacks a unit can avoid whilst on the defensive, effectively allowing it to stay on the defensive longer.
+		defense = -1.0                   # Defense - How many enemy attacks a unit can avoid whilst on the defensive, effectively allowing it to stay on the defensive longer.
 		max_strength = 10                # HP - Strength represents how much damage this unit can suffer before it is destroyed [standard 25]
 		armor_value = 0                 # Armor - Armor that is higher than the opponents Piercing value reduces damage taken and allows more attacks to occur [from 0-1]
 		hardness = 0                  # Hardness - Represents how much of your divsion is made up of armoured vehicles. High Hardness = High Hard Attacks, Low Soft Attack [from 0-1]
 		entrenchment = 1               # Entrenchment - The ability to make proper defensive entrenchments before a hostile attack [standard 5]
+	
+		need = {
+			spring_bat = 50
+		}
 		
 		forest = {
 			attack = -0.2

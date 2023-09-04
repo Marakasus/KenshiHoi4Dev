@@ -1313,7 +1313,7 @@ focus_tree = {
 		cost = 5
 		completion_reward = {
 		add_ideas = {
-		
+		STANDART_Raider
 		}
 		}	
 	}		

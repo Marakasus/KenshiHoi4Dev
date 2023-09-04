@@ -1,0 +1,11 @@
+﻿division_template = {
+	name = "Crossbowmen"
+
+	regiments = {
+		assault_crossbowmen = { x = 0 y = 0 }
+		assault_crossbowmen = { x = 0 y = 1 }
+        assault_crossbowmen = { x = 0 y = 2 }
+		assault_crossbowmen = { x = 1 y = 0 }
+		assault_crossbowmen = { x = 1 y = 1 }
+	}
+}

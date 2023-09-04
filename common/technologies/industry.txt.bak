@@ -9,6 +9,11 @@ technologies = {
 			leads_to_tech = improved_machine_tools 
 			research_cost_coeff = 1
 		}
+		
+		path = {
+			leads_to_tech = concentrated_industry 
+			research_cost_coeff = 1
+		}
 
 		path = {
 			leads_to_tech = dispersed_industry
@@ -39,6 +44,11 @@ technologies = {
 
 		path = {
 			leads_to_tech = advanced_machine_tools 
+			research_cost_coeff = 1
+		}
+
+		path = {
+			leads_to_tech = improved_equipment_conversion
 			research_cost_coeff = 1
 		}
 		
@@ -84,6 +94,11 @@ technologies = {
 		
 		ai_will_do = {
 			factor = 15
+						
+			modifier = {
+				factor = 10
+				date > "1939.1.1"
+			}
 		}
 		
 		categories = {
@@ -154,6 +169,11 @@ technologies = {
 		
 		ai_will_do = {
 			factor = 15
+						
+			modifier = {
+				factor = 10
+				date > "1943.1.1"
+			}
 		}
 		
 		categories = {
@@ -182,6 +202,11 @@ technologies = {
 		ai_will_do = {
 			factor = 15
 			
+			modifier = {
+				factor = 10
+				date > "1943.1.1"
+			}
+			
 		}
 		
 		categories = {
@@ -189,6 +214,71 @@ technologies = {
 			cat_production
 		}
 	}
+
+	#Conversion branch - Enabled in DoD
+	improved_equipment_conversion = {
+	
+		equipment_conversion_speed = 0.40
+
+		allow_branch = {
+			has_dlc = "Death or Dishonor"
+		}
+
+		path = {
+			leads_to_tech = advanced_equipment_conversion
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 2
+		start_year = 1937
+		
+		folder = {
+			name = industry_folder
+			position = { x = 2 y = 4 }
+		}
+
+		ai_will_do = {
+			factor = 1
+
+			modifier = {
+				factor = 2
+				date > "1937.1.1"
+			}
+		}
+		
+		categories = {
+			industry
+			cat_production
+		}
+	}
+	
+	advanced_equipment_conversion = {
+		
+		equipment_conversion_speed = 0.40
+
+		research_cost = 2
+		start_year = 1939
+		
+		folder = {
+			name = industry_folder
+			position = { x = 2 y = 6 }
+		}
+		
+		ai_will_do = {
+			factor = 1
+
+			modifier = {
+				factor = 2
+				date > "1937.1.1"
+			}
+		}
+		
+		categories = {
+			industry
+			cat_production
+		}
+	}
+
 	###############
 	concentrated_industry = {
 

@@ -7,6 +7,19 @@ spriteTypes = {
 		texturefile = "gfx/interface/archetypes/archetype_heavy_fighter_equipment.dds"
 	}	
 	SpriteType = {
+		name = "GFX_infantry_armor_0_medium"
+		texturefile = "gfx/interface/technologies/GFX_infantry_armor_0.dds"
+	}
+	SpriteType = {
+		name = "GFX_infantry_armor_1_medium"
+		texturefile = "gfx/interface/technologies/GFX_infantry_armor_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_infantry_armor_2_medium"
+		texturefile = "gfx/interface/technologies/GFX_infantry_armor_2.dds"
+	}	
+	
+	SpriteType = {
 		name = "GFX_archetype_CAS_equipment_medium"
 		texturefile = "gfx/interface/archetypes/archetype_CAS_equipment.dds"
 	}	

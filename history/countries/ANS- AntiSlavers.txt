@@ -1,6 +1,6 @@
 ﻿capital = 291
 
-#oob = "ANS"
+oob = "ANS"
 
 set_research_slots = 2
 
