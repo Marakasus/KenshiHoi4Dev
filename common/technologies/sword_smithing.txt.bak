@@ -94,7 +94,7 @@ technologies = {
 		start_year = 1933
 		folder = {
 			name = sword_smithing_folder
-			position = { x = -3 y = 2 }
+			position = { x = -2 y = 2 }
 		}
 		
 		categories = {
@@ -125,7 +125,7 @@ technologies = {
 		start_year = 1933
 		folder = {
 			name = sword_smithing_folder
-			position = { x = -3 y = 4 }
+			position = { x = -2 y = 4 }
 		}
 		
 		categories = {
@@ -157,7 +157,7 @@ technologies = {
 		start_year = 1933
 		folder = {
 			name = sword_smithing_folder
-			position = { x = -3 y = 6 }
+			position = { x = -2 y = 6 }
 		}
 		
 		categories = {
@@ -189,7 +189,7 @@ technologies = {
 		start_year = 1933
 		folder = {
 			name = sword_smithing_folder
-			position = { x = -3 y = 8 }
+			position = { x = -2 y = 8 }
 		}
 		
 		categories = {
@@ -337,7 +337,7 @@ technologies = {
 		start_year = 1933
 		folder = {
 			name = sword_smithing_folder
-			position = { x = 2 y = 8 }
+			position = { x = 0 y = 8 }
 		}
 		
 		categories = {
@@ -392,7 +392,7 @@ technologies = {
 		start_year = 1933
 		folder = {
 			name = sword_smithing_folder
-			position = { x = 4 y = 2 }
+			position = { x = 2 y = 2 }
 		}
 		
 		categories = {
@@ -423,7 +423,7 @@ technologies = {
 		start_year = 1933
 		folder = {
 			name = sword_smithing_folder
-			position = { x = 4 y = 4 }
+			position = { x = 2 y = 4 }
 		}
 		
 		categories = {
@@ -455,7 +455,7 @@ technologies = {
 		start_year = 1933
 		folder = {
 			name = sword_smithing_folder
-			position = { x = 4 y = 6 }
+			position = { x = 2 y = 6 }
 		}
 		
 		categories = {
@@ -487,7 +487,7 @@ technologies = {
 		start_year = 1933
 		folder = {
 			name = sword_smithing_folder
-			position = { x = 4 y = 8 }
+			position = { x = 2 y = 8 }
 		}
 		
 		categories = {
@@ -540,7 +540,7 @@ technologies = {
 		start_year = 1933
 		folder = {
 			name = sword_smithing_folder
-			position = { x = 6 y = 2 }
+			position = { x = 4 y = 2 }
 		}
 		
 		categories = {
@@ -571,7 +571,7 @@ technologies = {
 		start_year = 1933
 		folder = {
 			name = sword_smithing_folder
-			position = { x = 6 y = 4 }
+			position = { x = 4 y = 4 }
 		}
 		
 		categories = {
@@ -603,7 +603,7 @@ technologies = {
 		start_year = 1933
 		folder = {
 			name = sword_smithing_folder
-			position = { x = 6 y = 6 }
+			position = { x = 4 y = 6 }
 		}
 		
 		categories = {
@@ -635,7 +635,7 @@ technologies = {
 		start_year = 1933
 		folder = {
 			name = sword_smithing_folder
-			position = { x = 6 y = 8 }
+			position = { x = 4 y = 8 }
 		}
 		
 		categories = {
@@ -692,7 +692,7 @@ technologies = {
 		start_year = 1933
 		folder = {
 			name = sword_smithing_folder
-			position = { x = 8 y = 2 }
+			position = { x = 6 y = 2 }
 		}
 		
 		categories = {
@@ -723,7 +723,7 @@ technologies = {
 		start_year = 1933
 		folder = {
 			name = sword_smithing_folder
-			position = { x = 8 y = 4 }
+			position = { x = 6 y = 4 }
 		}
 		
 		categories = {
@@ -755,7 +755,7 @@ technologies = {
 		start_year = 1933
 		folder = {
 			name = sword_smithing_folder
-			position = { x = 8 y = 6 }
+			position = { x = 6 y = 6 }
 		}
 		
 		categories = {
@@ -787,7 +787,7 @@ technologies = {
 		start_year = 1933
 		folder = {
 			name = sword_smithing_folder
-			position = { x = 8 y = 8 }
+			position = { x = 6 y = 8 }
 		}
 		
 		categories = {
