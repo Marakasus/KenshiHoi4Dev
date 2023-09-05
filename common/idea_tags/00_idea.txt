@@ -36,6 +36,18 @@ idea_categories = {
 		cost = 150
 		removal_cost = 0
 	}
+	###Kenshi
+	development = {
+		slot = army_quality
+		slot = education_quality
+		slot = economic_development
+		
+		ledger = civilian
+		
+		cost = 150
+		removal_cost = 0
+	}
+	#####
 	
 	research_production = {
 		slot = tank_manufacturer
