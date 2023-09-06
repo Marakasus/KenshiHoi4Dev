@@ -2,7 +2,7 @@ state={
 	id=182
 	name="STATE_182"
 	provinces={
-		2051 2790 2903 5438 5445 5456 6540 6539 
+		2051 2790 5438 5445 6540 6539 
 	}
 	manpower=29525
 	buildings_max_level_factor=1.000
@@ -27,7 +27,6 @@ state={
 			arms_factory = 2
 		}
 		
-		victory_points = { 2903 1 } # Fort Moll
 		victory_points = { 6539 3 } # Barlow
 	}
 	

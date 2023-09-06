@@ -17,9 +17,9 @@ state={
 	}
 	
 	history = {
-		owner = ZSC
+		owner = ZHO
 		#controller = ZSC
-		add_core_of = ZSC
+		add_core_of = ZHO
 		
 		buildings = {
 			infrastructure = 1

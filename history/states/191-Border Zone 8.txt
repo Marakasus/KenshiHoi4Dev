@@ -2,7 +2,7 @@ state={
 	id=191
 	name="STATE_191"
 	provinces={
-		427 1866 3658 5494 2593 6484 
+		427 1866 5494 2593 6484 
 	}
 	manpower=37195
 	buildings_max_level_factor=1.000
@@ -17,9 +17,9 @@ state={
 	}
 	
 	history = {
-		owner = ZRF
+		owner = ZBH
 		#controller = ZRF
-		add_core_of = ZRF
+		add_core_of = ZBH
 		
 		buildings = {
 			infrastructure = 2
