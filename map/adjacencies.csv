@@ -1,4 +1,4 @@
-<<<<<<<;HEAD;;;;;;;;;;
+;;;;;;;;;;;
 From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment;;
 4574;2235;sea;7289;-1;-1;-1;-1;;Iron;Committee;
 1015;2235;sea;7289;-1;-1;-1;-1;;Iron;Committee;
@@ -128,5 +128,3 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment;;
 5931;3092;sea;8024;-1;-1;-1;-1;;Flats;;Lagoon
 3092;5931;sea;7368;-1;-1;-1;-1;;Flats;;Lagoon
 2550;848;sea;7952;-1;-1;-1;-1;;Wend;Bridge;
-;;;;;;;;;;;
->>>>>>>;3c3583db1c3af1da96485fa371a0d569c2cddc2c;;;;;;;;;;
