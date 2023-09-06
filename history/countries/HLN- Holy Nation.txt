@@ -21,6 +21,39 @@ add_to_faction = VHN
 add_to_faction = IHN
 add_to_faction = HHN
 
+if = {
+	limit = {
+		OR = {
+			has_dlc = "Together for Victory"
+			has_dlc = "Man the Guns"
+		}
+	}
+	set_autonomy = {
+		target = SHN
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = VHN
+		autonomous_state = autonomy_integrated_puppet
+		freedom_level = 0.35
+	}
+	set_autonomy = {
+		target = IHN
+		autonomous_state = autonomy_integrated_puppet
+		freedom_level = 0.35
+	}
+	set_autonomy = {
+		target = HHN
+		autonomous_state = autonomy_integrated_puppet
+		freedom_level = 0.35
+	}
+	else = {
+		puppet = SHN
+		puppet = VHN
+		puppet = IHN
+		puppet = HHN
+	}
+}
 
 set_politics = {
 	ruling_party = okranite

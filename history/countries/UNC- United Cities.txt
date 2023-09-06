@@ -14,15 +14,32 @@ set_technology = {
 	tech_military_police = 1
 	tech_mountaineers = 1
 }
-create_faction = "The Third Empire"
+create_faction = "The United Cities"
 add_to_faction = UNC
-add_to_faction = XUC
-add_to_faction = SUC
 add_to_faction = TDG
 add_to_faction = IMP
-add_to_faction = MNH
-add_to_faction = FCC
 
+if = {
+	limit = {
+		OR = {
+			has_dlc = "Together for Victory"
+			has_dlc = "Man the Guns"
+		}
+	}
+	set_autonomy = {
+		target = IMP
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = TDG
+		autonomous_state = autonomy_dominion
+		freedom_level = 0.35
+	}
+	else = {
+		puppet = IMP
+		puppet = TDG
+	}
+}
 
 set_politics = {
 	ruling_party = new_imperialism
