@@ -24,7 +24,7 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = infantry_weapons2
+			leads_to_tech = infantry_weapons1
 			research_cost_coeff = 1
 		}		
 
@@ -44,7 +44,7 @@ technologies = {
 		}
 	}
 	
-	infantry_weapons2 = {
+	infantry_weapons1 = {
 
 		enable_equipments = {
 			infantry_equipment_1
@@ -523,7 +523,7 @@ technologies = {
 		}
 	}	
 	
-infantry_armor1 = {
+infantry_armor_0 = {
 
 
 		enable_equipments = {
@@ -570,7 +570,7 @@ infantry_armor2 = {
 		start_year = 106
 		folder = {
 			name = infantry_folder
-			position = { x = 3 y = @103 }
+			position = { x = 3 y = @105 }
 		}
 		
 		categories = {
@@ -592,7 +592,7 @@ infantry_armor3 = {
 		start_year = 110
 		folder = {
 			name = infantry_folder
-			position = { x = 3 y = @106 }
+			position = { x = 3 y = @109 }
 		}
 		
 		categories = {
