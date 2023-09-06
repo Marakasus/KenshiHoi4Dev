@@ -1,0 +1,606 @@
+1 2652 #Falten Farm Ruins#
+1 2580 #The Watchtower#
+1 4809 #Okran's Fist#
+1 2604 #Cambolt Farm#
+1 1977 #Janus Ranch#
+1 3573 #Craterton#
+1 2520 #Sellot#
+1 2182 #Hobarn#
+1 5076 #Barebone#
+1 1825 #Peak-Park#
+1 2224 #Okran's Passage#
+1 2564 #Narko's Trap#
+1 2172 #Okran's Cradle#
+1 1496 #Ravel#
+1 4075 #Lake Vista#
+1 4405 #Kiermayer#
+1 2478 #Fort Bond#
+1 5464 #Palehors#
+1 2550 #Lostrit#
+1 2444 #Dorman#
+1 4166 #North Gate#
+1 3672 #South Gate#
+1 5003 #Camp Rebirth#
+1 3405 #Red Peak#
+1 5111 #Upper Sogdew#
+1 125 #Floodwatch#
+1 2910 #Bone Canyon#
+1 2605 #Gallan#
+1 2820 #Fort Fog#
+1 5187 #Coldon Outpost#
+1 5316 #Fort Lackey#
+1 2093 #Sheath#
+1 2237 #Brennan#
+1 1505 #Lower Sogdew#
+1 5134 #Blister Hill#
+1 5135 #Fort Flame#
+1 5093 #Catoll#
+1 1351 #Northern Guardian#
+1 2995 #Bulljoy#
+1 3421 #Sinner's Last Mines#
+1 3407 #Desert Husky#
+1 3368 #Southern Guardian#
+1 5420 #Fort Till#
+1 3017 #Camp Greed#
+1 3835 #Shmanoville#
+1 3263 #Stack#
+1 5414 #Eve#
+1 4331 #Camp Lust#
+1 2671 #Camp Hersey#
+1 5348 #Fashite#
+1 5329 #Wadeweed#
+1 6611 #Bad Teeth#
+1 1087 #Hotlongs#
+1 5317 #Happy Valley#
+1 2087 #Winede#
+1 2263 #Bishop City#
+1 5226 #Greenfield#
+1 1928 #Bookend#
+1 3760 #Allison#
+1 4442 #Tomb of the Ancient#
+1 2875 #Deadline#
+1 3312 #Old Fask#
+1 4530 #Fort Flock#
+1 2235 #Midpoint Isle#
+1 3901 #Sarge#
+1 3233 #Cape Copper#
+1 3055 #Sleeve#
+1 1365 #Conish#
+1 1933 #Banor#
+1 3810 #Sall#
+1 1229 #Mount Maddox#
+1 4221 #Lavender City#
+1 2993 #Periwinkle#
+1 378 #Fort Mauve#
+1 2512 #Sphereshine#
+1 3963 #The Cannibal Capital#
+1 2024 #Whelm#
+1 3222 #Maro#
+1 2664 #Zigrut#
+1 833 #Hack#
+1 574 #Fork#
+1 3662 #Slopp#
+1 4643 #Fanish#
+1 574 #Viscoss#
+1 3018 #Magg Bay#
+1 1698 #Zack#
+1 4509 #Villam#
+1 1842 #Alstill#
+1 4594 #Nobe#
+1 4673 #Devil's Peak#
+1 6483 #Mellow Harbor#
+1 2590 #Fort Yell#
+1 3270 #Scoutpost#
+1 4689 #Arcadia#
+1 4776 #Hazelwood#
+1 342 #Defiance#
+1 2064 #Femburg#
+1 3561 #Parma#
+1 3021 #World's End#
+1 3190 #Wreel#
+1 4716 #Camp Red Rocks#
+1 4813 #Talisman#
+1 3434 #The Old Workshop#
+1 4904 #Veest#
+1 4972 #Sac#
+1 4928 #The Silent City#
+1 2116 #The Price of Obedience#
+1 4074 #Mongrel#
+1 5011 #Catwalk#
+1 1934 #Lone Lamb#
+1 3960 #Old Yarma#
+1 277 #Megaraptor's Cove#
+1 570 #Takameru#
+1 2674 #Heiwa#
+1 4084 #Reg-Ceg#
+1 1482 #Chestnut#
+1 5060 #Sootsalt#
+1 5158 #Mongrel Run#
+1 158 #Remembrance#
+1 2044 #Modi#
+1 1009 #Delgate#
+1 5362 #New Yarma#
+1 1870 #Hunker Hill#
+1 1429 #Fort Hospit#
+1 2177 #City of the Survivor#
+1 5426 #Dirwork#
+1 5489 #Sanity Peak#
+1 5291 #Trust#
+1 2446 #Colossa#
+1 1542 #Big Trig#
+1 5382 #Altachek#
+1 1652 #Knobeak#
+1 159 #Eeloo#
+1 1256 #Gilly#
+1 5596 #Moho#
+1 5628 #Squimbus#
+1 2471 #Dres#
+1 2079 #Libby#
+1 749 #Hornstip#
+1 5598 #Koob#
+1 5503 #Humit#
+1 355 #Bop#
+1 100 #Pol#
+1 5570 #Tylo#
+1 4377 #Laythe#
+1 3923 #Tradertown#
+1 2324 #Bucket Man#
+1 5565 #Fort Westing#
+1 5555 #Queen Island#
+1 3374 #Misty Moor#
+1 3554 #Admag#
+1 2721 #Aurzor#
+1 5641 #Squin#
+1 2427 #Kryga#
+1 2091 #Curb#
+1 5685 #Calf#
+1 4307 #The Great Fortress#
+1 2191 #Hart#
+1 1448 #Axis#
+1 5670 #Green Iris#
+1 463 #Fort Jungo#
+1 309 #Shido#
+1 2851 #New Kralia#
+1 1755 #Battleborn#
+1 5756 #Upflow#
+1 4433 #Pardice#
+1 1706 #Minge#
+1 2510 #Last Stand#
+1 3441 #Huga#
+1 3688 #Center City#
+1 5793 #Bang#
+1 2961 #Rue#
+1 123 #Boil#
+1 3361 #Tank#
+1 5892 #Face#
+1 1781 #Cloke#
+1 1695 #Dagga#
+1 3216 #Camaraderie#
+1 1169 #Alcarda#
+1 3138 #Fort Shank#
+1 3803 #Karnov Pass#
+1 291 #Fort Scorn#
+1 5934 #Stony Shores#
+1 1246 #Cowardice#
+1 6092 #Stagger#
+1 5986 #Throne Of The Bugmaster#
+1 6004 #Vanishing Village#
+1 3160 #Lab 45#
+1 6194 #Mildew Valley#
+1 1309 #Clamtown#
+1 6320 #Saigono#
+1 6133 #Kemstri#
+1 1726 #Rhea's Arch#
+1 42 #Astrommi#
+1 1413 #Fisks#
+1 6149 #Fort Maxon#
+1 605 #Bonny#
+1 1571 #Kidd#
+1 4441 #Beard#
+1 4313 #Drake#
+1 696 #Palma#
+1 6084 #Big Island#
+1 617 #Oliva#
+1 6619 #Little Island#
+1 6153 #Kelsey#
+1 2296 #Camp Fickel#
+1 1990 #Camp Cobalt#
+1 2623 #Clownsteady#
+1 6396 #Drifter's Last#
+1 2915 #Key#
+1 3352 #Voxel#
+1 2728 #Pageant#
+1 2982 #Sky Rose#
+1 2376 #Weld#
+1 6338 #Fern#
+1 2611 #Mira#
+1 281 #Glas#
+1 3410 #Mountain View#
+1 6337 #Cadence#
+1 1252 #Sultan Isle#
+1 46 #Nook#
+1 1953 #Old Rayner#
+1 3307 #New Rayner#
+1 1729 #Camp Hadel#
+1 6463 #Point Cabo#
+1 1186 #Mount Misery#
+1 1255 #Bliss#
+1 4083 #Nudge#
+1 6371 #Battai#
+1 6312 #Fort Injustice#
+1 3716 #Ruft#
+1 4148 #Scamper#
+1 6229 #Headshot Hill#
+1 2437 #Tidetown#
+1 716 #Great Southern Slave Market#
+1 1683 #Catun#
+1 1993 #Trader's Checkpoint#
+1 6094 ##
+1 3348 #City of Mourn#
+1 741 #Shelve#
+1 2902 #Prospex#
+1 5931 #Flats Lagoon#
+1 1160 #The Old Prison#
+1 5947 #Chain Lakes#
+1 2018 #Mica Point#
+1 771 #Big Bill#
+1 69 #Shark#
+1 3988 #Shab#
+1 3109 #Muck#
+1 5799 #Sashidasu#
+1 2954 #Swampsand#
+1 3020 #Mud Town#
+1 354 #Vamper#
+1 1611 #Teefree#
+1 1017 #Misha#
+1 3720 #Yass#
+1 2320 #Corks#
+1 2744 #Craps City#
+1 5993 #Malarith#
+1 5962 #Jeek#
+1 3195 #Milkbox#
+1 136 #Ruins of Arbor#
+1 3051 #Popa#
+1 3070 #Hertik#
+1 3600 #Boggoth#
+1 3060 #Algee#
+1 1767 #Spud#
+1 2245 #Rot#
+1 5714 #Kakuri#
+1 5653 #Handoff#
+1 5634 #Towering Bravery#
+1 5602 #Froam#
+1 6616 #Waystation Verge#
+1 5547 #Purefire#
+1 5591 #Stickton City#
+1 4251 #Devil's Peak#
+1 2123 #Yinja#
+1 4658 #Yanger#
+1 427 #Kepposu#
+1 1154 #Rebel Base#
+1 2678 #Vall#
+1 6578 #Batter#
+1 5498 #The Dust Tower#
+1 1326 #Stripsell#
+1 6466 #Domain#
+1 5586 #Marne#
+1 516 #Kibo#
+1 5509 #Vida#
+1 2903 #Fort Moll#
+1 6532 #Kat#
+1 6539 #Barlow#
+1 6484 #Base Rei#
+1 5463 #Larva#
+1 5546 #Corleane#
+1 1023 #Your Outpost#
+1 327 #The Hub#
+1 5500 #Queen Hill#
+1 6534 #Herget#
+1 151 #Mount Magic#
+1 5567 #Vicordeth#
+1 1194 #Dryrun#
+1 5450 #The Lost Legion#
+1 53 #City of Shame#
+1 3531 #Quin & Dack's#
+1 5410 #Black Desert City#
+1 5581 #The Anything Bar#
+1 5716 #Hashquarters#
+1 789 #Old Control Tower#
+1 1533 #Tower of Abuse#
+1 52 #Repurpose#
+1 5423 #Future HQ#
+1 5245 #Xalis#
+1 5154 #Throw#
+1 4992 #Canyon Line#
+1 559 #Frentir City#
+1 3911 #Hog#
+1 2013 #Tengu's Vault#
+1 3227 #Fort Murphy#
+1 3036 #Cuzistan#
+1 2979 #Abaddon#
+1 3816 #Bast City#
+1 527 #Drin#
+1 4631 #Filthich#
+1 6601 #Endin#
+1 6592 #Okran's Justice#
+1 2900 #Sabretown#
+1 6586 #Scobard#
+1 1914 #Desert Lady#
+1 4693 #New Fort Mirage#
+1 3610 #Tenotan#
+1 2015 #Wybout#
+1 45 #Kovner#
+1 6554 #Red Bear#
+1 6569 #Snatch#
+1 4783 #Kerilla#
+1 4690 #Ghast#
+1 4766 #Rebirth Road#
+1 4703 #Fleeze#
+1 4587 #The Bastion#
+1 4043 #Purge#
+1 1066 #Custer#
+1 4695 #Unholy Forest#
+1 2096 #Shave#
+1 942 #Skullpoint#
+1 3677 #Glob#
+1 4501 #Bunt#
+1 4559 #Megold#
+1 1561 #Tchew#
+1 2314 #Heart of Horrors#
+1 2246 #Roast#
+1 1603 #Dearmi#
+1 2567 #Omunch#
+1 2345 #First Village#
+1 758 #Fort Simion#
+1 4592 #Vigor#
+1 1010 #Nufrens#
+1 4549 #Wenough#
+1 4479 #Fort Hamut#
+1 3219 #Trim#
+1 2430 #Franks#
+1 4490 #Mavel#
+1 4444 #Cape Waddle#
+1 3625 #Dibber#
+1 4812 #Everrain#
+1 6505 #Burn's Tower#
+1 3291 #Barth#
+1 2135 #Fort Headhunter#
+1 4544 #Port North#
+1 4519 #Double#
+1 6479 #Isle Sanda#
+1 4063 #Bark#
+1 4620 #Flap#
+1 4577 #Fund#
+1 3420 #Confine#
+1 4686 #Lyfeblood#
+1 2716 #Fort Keepin#
+1 4529 #Infron#
+1 3120 #Benvit#
+1 1164 #Cheek#
+1 2526 #Landohn#
+1 4740 #Morning#
+1 4788 #Sho-Battai Stone Company#
+1 2527 #Firebreath#
+1 4872 #Extrema#
+1 3149 #Stoat Reeducation Center#
+1 4895 #Stoat#
+1 358 #King's Ransom#
+1 4865 #Hellmine#
+1 4943 #Lowmind#
+1 4165 #Clear Sky#
+1 888 #Pubbish#
+1 1321 #Suffice#
+1 4896 #Heft#
+1 143 #Sho-Battai#
+1 4669 #Preloan#
+1 3564 #Romfox#
+1 879 #Narva#
+1 4887 #Gent#
+1 4883 #Flung#
+1 4797 #Guiding Wind#
+1 4116 #Roman#
+1 4553 #Meeting of Dunes#
+1 4590 #Strain#
+1 1861 #Ward#
+1 4681 #Fiber#
+1 4701 #Desert Diamonds#
+1 4755 #Port South#
+1 3123 #Horse#
+1 4803 #Eplace#
+1 3326 #Mergegrove#
+1 1020 #Cast#
+1 4919 #Birth of an Empire#
+1 4888 #Camp Boot#
+1 4085 #Dustwich City#
+1 1458 #Straw#
+1 3959 #Haste#
+1 426 #Middleton#
+1 4293 #Chauvin#
+1 5031 #Fast Mine#
+1 3464 #Cater#
+1 2317 #Heng#
+1 5140 #Trader's Edge#
+1 5120 #Fort Baggs#
+1 5061 #Camp Carbon#
+1 3377 #Fort Skim#
+1 5201 #Packing#
+1 3078 #Northern Slave Market#
+1 3076 #Camp Fulfed#
+1 3172 #Tag#
+1 5153 #Stepp#
+1 3535 #Archtech#
+1 5088 #Meer Mines#
+1 5077 #Open Door#
+1 4966 #Granite Point#
+1 1728 #Flow#
+1 4909 #Port East#
+1 223 #Slug#
+1 2788 #Match#
+1 3014 #Paydem#
+1 5290 #Hope#
+1 960 #Deft#
+1 3701 #Dronerule#
+1 107 #No-Surrender#
+1 1450 #Seal#
+1 2546 #Avalon City#
+1 1718 #Pordge#
+1 6562 #No-Face's Island#
+1 4040 #Camp Eyesocket#
+1 412 #Brink#
+1 3011 #Rim#
+1 2370 #The Southern Star#
+1 3393 #Folly#
+1 5467 #Camp Cadet#
+1 5411 #Salbeach#
+1 5424 #Carol#
+1 3207 #Lake Fortune#
+1 5496 #Brunt#
+1 3417 #Visage#
+1 3035 #Midas#
+1 5550 #Black Scratch#
+1 4158 #Heath#
+1 5562 #Post Fiona#
+1 669 #Abel#
+1 5482 #Crimson Peak#
+1 1605 #Spider Factory#
+1 1898 #Jem Labs#
+1 410 #Salta Labs#
+1 63 #Purpose#
+1 5502 #Tripley#
+1 1151 #Teach#
+1 117 #Edd Lake#
+1 957 #Kubass Bridge#
+1 954 #Natural Overrun#
+1 5632 #Whelp Front#
+1 5646 #Tyron#
+1 25 #Faze#
+1 5719 #Pax#
+1 2256 #Kyodai#
+1 1081 #Freak#
+1 5786 #New Bark#
+1 5805 #Sloan#
+1 5705 #Ark#
+1 2572 #Peacemade#
+1 1712 #Titan#
+1 2557 #Teardrop#
+1 5742 #Ninety#
+1 1547 #Dorado#
+1 5894 #Safety#
+1 418 #Tatter#
+1 2559 #Huff#
+1 3019 #Flounder#
+1 917 #Hugs#
+1 712 #Pican#
+1 3751 #Wallop#
+1 1069 #Iron HQ#
+1 4068 #Cogear#
+1 1241 #Oilsheen#
+1 3394 #Southern Post#
+1 512 #Brogram#
+1 3708 #Saddle#
+1 2848 #Salvation City#
+1 3481 #C-A01#
+1 5960 #C-A02#
+1 6080 #Expedition 5#
+1 718 #Susa#
+1 989 #Farce#
+1 348 #Mence#
+1 2021 #Grave Beach#
+1 2219 #Crablowe#
+1 1471 #Critter#
+1 1205 #Crab City#
+1 5983 #Tusk Island#
+1 1369 #Fort Scarab#
+1 5851 #Crabbington#
+1 3499 #Crabwash#
+1 3653 #Crust#
+1 5728 #Rave Isle#
+1 5781 #Crabbacks#
+1 4305 #Skewer#
+1 5594 #Peg#
+1 67 #Thorax#
+1 3939 #Igration#
+1 1076 #Stobe's Rest#
+1 3004 #Weep#
+1 5950 #Task#
+1 5956 #Mount Crooked#
+1 3987 #Bother#
+1 3927 #Destitude#
+1 3013 #Sikara#
+1 28 #New Blossom#
+1 96 #Kudo#
+1 465 #Spring#
+1 2725 #Fable#
+1 3824 #Fort Fearless#
+1 59 #Break#
+1 5966 #Fort Spoon#
+1 5791 #Smokestack#
+1 2035 #Heed#
+1 2711 #Quarn#
+1 5970 #Pilge#
+1 2908 #Enne#
+1 4030 #Charlton#
+1 788 #Illiam#
+1 1510 #Yorge#
+1 2531 #Meddard#
+1 763 #Vicky Rock#
+1 6289 #Liza#
+1 2078 #Artur#
+1 1941 #Filp#
+1 921 #Marion#
+1 2056 #Alber#
+1 4241 #Seat of Skins#
+1 3893 #The Royal Vault#
+1 6386 #White Heights#
+1 6370 #Auchin#
+1 3783 #Montgom#
+1 3482 #Fort Alexander#
+1 6335 #Terrace Town#
+1 4388 #Forset#
+1 3989 #Fort Winter#
+1 6266 #Brook#
+1 432 #Dowden#
+1 714 #Herch Hill#
+1 3324 #Vettiker#
+1 2125 #Oblud City#
+1 3418 #Outpour#
+1 6624 #Brood Isle#
+1 6331 #Spleesh#
+1 6313 #Moot#
+1 6346 #Tune#
+1 6364 #Somme#
+1 1688 #Roll Isle#
+1 3667 #Cape Delphi#
+1 1026 #Unagi#
+1 6423 #Amachi#
+1 3528 #Fish Isle City#
+1 2733 #King Gurgler's Palace#
+1 6449 #Ikurai#
+1 2552 #Kapp#
+1 3283 #Necropolis#
+1 3680 #Naeve#
+1 1393 #Nihare#
+1 6366 #Ningen#
+1 1 #Naught#
+1 6381 #Nast#
+1 6590 #The Great Barrier#
+1 6623 #The Sentinel#
+1 1438 #Department of Agriculture#
+1 6334 #The Hydraulic Knights#
+1 171 #Department of Labor#
+1 6390 #Department of Security#
+1 2283 #Cat-Lon's Exile#
+1 1568 #Byzanta#
+1 2911 #Seazar#
+1 6434 #Komeer#
+1 2448 #Indus#
+1 6428 #Maya#
+1 6311 #Ashtech#
+1 1359 #Inka#
+1 6315 #Ecrypt#
+1 1620 #Fort Garand#
+1 5740 #New Heng#
+1 2516 #Lushland#
+1 5754 #Fort Dott#
+1 1811 #Smiles#
+1 3480 #Clearwater#
