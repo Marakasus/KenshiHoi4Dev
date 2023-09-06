@@ -126,5 +126,5 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment;;
 3743;1330;impassable;-1;-1;-1;-1;-1;;Krater;North;
 ;;;;;;;;;;;
 5931;3092;sea;8024;-1;-1;-1;-1;;Flats;;Lagoon
-3092;5931;sea;7368;-1;-1;-1;-1;;Flats;;Lagoon
+3092;3082;sea;7368;-1;-1;-1;-1;;Flats;;Lagoon
 2550;848;sea;7952;-1;-1;-1;-1;;Wend;Bridge;
