@@ -44,7 +44,7 @@ technologies = {
 		}
 	}
 	
-	infantry_weapons1 = {
+	infantry_weapons2 = {
 
 		enable_equipments = {
 			infantry_equipment_1

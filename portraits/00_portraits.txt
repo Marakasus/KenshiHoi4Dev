@@ -1,0 +1,110 @@
+default = {
+	#navy = {
+		#male = {
+		#}
+		#female = {
+		#}
+	#}
+	
+	#army = {
+		#male = {
+		#}
+		#female = {
+		#}
+	#}
+
+	operative = {
+		male = {
+			"GFX_Portrait_Portait_Placeholder"
+		}
+		female = {
+			"GFX_Portrait_Portait_Placeholder"
+		}
+	}
+
+	male = {
+		"GFX_Portrait_Portait_Placeholder"
+	}
+	female = {
+		"GFX_Portrait_Portait_Placeholder"
+	}
+}
+
+continent = {
+	name = europe
+	army = {
+		male = {
+			"GFX_Portrait_Portait_Placeholder"
+			"GFX_Portrait_Portait_Placeholder"
+			"GFX_Portrait_Portait_Placeholder"
+			"GFX_Portrait_Portait_Placeholder"
+			"GFX_Portrait_Portait_Placeholder"
+			"GFX_Portrait_Portait_Placeholder"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Portrait_Portait_Placeholder"
+			"GFX_Portrait_Portait_Placeholder"
+			"GFX_Portrait_Portait_Placeholder"
+		}
+	}
+	
+	political = {
+		new_imperialism = {
+				male = { 
+					"GFX_Portrait_Portait_Placeholder"
+			}
+		}
+		okranite = {
+				male = { 
+					"GFX_Portrait_Portait_Placeholder" 
+			}
+		}
+		kralist_code = {
+				male = { 
+					"GFX_Portrait_Portait_Placeholder" 
+			}
+		}
+		old_imperialism = {
+				male = { 
+					"GFX_Portrait_Portait_Placeholder" 
+			}
+		}
+		hiver = {
+				male = { 
+					"GFX_Portrait_Portait_Placeholder" 
+			}
+		}
+		liberationism = {
+				male = { 
+					"GFX_Portrait_Portait_Placeholder" 
+			}
+		}
+		independent = {
+				male = { 
+					"GFX_Portrait_Portait_Placeholder" 
+			}
+		}
+		raider = {
+				male = { 
+					"GFX_Portrait_Portait_Placeholder" 
+			}
+		}
+		horde = {
+				male = { 
+					"GFX_Portrait_Portait_Placeholder" 
+			}
+		}
+		wilderness = {
+				male = { 
+					"GFX_Portrait_Portait_Placeholder" 
+			}
+		}
+		
+	}
+
+}
+
+

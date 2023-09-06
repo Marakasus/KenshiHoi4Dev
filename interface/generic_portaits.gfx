@@ -1,0 +1,12 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_Portrait_Portait_Placeholder"
+		texturefile = "gfx/leaders/Generic/leader_template.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_placeholder_advisor"
+		texturefile = "gfx/interface/leaders/Generic/placeholder_advisor.dds"
+	}
+}	
