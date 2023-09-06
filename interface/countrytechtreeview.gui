@@ -3641,6 +3641,14 @@ guiTypes = {
 				slotsize = { width=60 height= 60 }
 				format = "UP"
 			}
+			
+			gridboxtype = {
+				name = "farmer_tech_tree"
+				position = { x=50 y=172 }
+				size = { width = 680 height = 800 }
+				slotsize = { width=60 height= 60 }
+				format = "UP"
+			}			
 
 			iconType = {
 				name = "highlight_engineering_1"

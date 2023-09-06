@@ -18,6 +18,7 @@ can_ROOT_get_wargoal_on_THIS = {
 	NOT = { is_in_faction_with = ROOT }
 	NOT = { is_subject_of = ROOT }
 }
+
 is_border_conflict_defender_vs_FROM = {
 	has_variable = ROOT.defender_state_vs_@FROM
 }
@@ -51,6 +52,7 @@ has_ROOT_at_least_1_div_in_current_state_scope = {
 		ROOT = { divisions_in_state = { state = PREV size > 0 } }
 	}
 }
+
 #State scope
 is_controlled_by_ROOT_or_subject = {
 	custom_trigger_tooltip = {
@@ -83,92 +85,6 @@ is_controlled_by_ROOT_or_ally = {
 				is_in_faction_with = ROOT
 			}
 		}
-	}
-}
-enemy_has_equal_or_better_radar_tech_trigger = {
-	custom_trigger_tooltip = {
-		tooltip = enemy_has_equal_or_better_radar_tech_trigger_tt
-		if = {
-			limit = {
-				ROOT = {
-					has_tech = radio_detection
-					NOT = {
-						has_tech = decimetric_radar
-					}
-				}
-			}
-			FROM = {
-				OR = {
-					has_tech = radio_detection
-					has_tech = decimetric_radar
-				}
-			}
-		}
-		else_if = {
-			limit = {
-				ROOT = {
-					has_tech = decimetric_radar
-					NOT = {
-						has_tech = improved_decimetric_radar
-					}
-				}
-			}
-			FROM = {
-				OR = {
-					has_tech = decimetric_radar
-					has_tech = improved_decimetric_radar
-				}
-			}
-		}
-		else_if = {
-			limit = {
-				ROOT = {
-					has_tech = improved_decimetric_radar
-					NOT = {
-						has_tech = centimetric_radar
-					}
-				}
-			}
-			FROM = {
-				OR = {
-					has_tech = improved_decimetric_radar
-					has_tech = centimetric_radar
-				}
-			}
-		}
-		else_if = {
-			limit = {
-				ROOT = {
-					has_tech = centimetric_radar
-					NOT = {
-						has_tech = improved_centimetric_radar
-					}
-				}
-			}
-			FROM = {
-				OR = {
-					has_tech = centimetric_radar
-					has_tech = improved_centimetric_radar
-				}
-			}
-		}
-		else_if = {
-			limit = {
-				ROOT = {
-					has_tech = improved_centimetric_radar
-					NOT = {
-						has_tech = advanced_centimetric_radar
-					}
-				}
-			}
-			FROM = {
-				OR = {
-					has_tech = improved_centimetric_radar
-					has_tech = advanced_centimetric_radar
-				}
-			}
-		}
-		#no more steps needed because end of research tree is reached
 	}
 }
 
@@ -299,21 +215,6 @@ is_major_not_original_tag_root = {
 	}
 }
 
-is_initial_ethiopian_state = {
-	OR = {
-		state = 271
-		state = 835
-		state = 836
-		state = 837
-		state = 838
-		state = 839
-		state = 840
-		state = 841
-		state = 842
-		state = 843
-	}
-}
-
 has_subject_autonomy_feature = {
 	has_dlc = "Together for Victory"
 	#TODO_Manu: More DLCs?
@@ -371,12 +272,6 @@ state_is_fully_controlled_by_ROOT_or_subject = {
 	}
 }
 
-is_alpine_state = {
-	custom_trigger_tooltip = {
-		tooltip = is_alpine_TT
-	}
-}
-
 state_has_any_resource = {
 	OR = {
 		has_resources_amount = {
@@ -416,6 +311,4 @@ country_can_be_reasonable_target_of_wargoal = { #Expected scopes: Target country
 		is_subject_of = PREV
 	}
 }
-
-is_unlikely_country_tag = {
 }

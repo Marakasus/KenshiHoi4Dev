@@ -1,0 +1,10 @@
+division_template = {
+}
+units = {
+	##### Put army here #####
+}
+
+
+# Production lines here
+#instant_effect = {
+#}

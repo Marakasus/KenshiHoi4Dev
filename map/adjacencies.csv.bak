@@ -10,9 +10,9 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 
 1765;5051;sea;-1;-1;-1;-1;-1;;Avalon
 1765;1700;sea;-1;-1;-1;-1;-1;;Avalon
-3909;1232;sea;-1;-1;-1;-1;-1;;Avalon
+3909;1232;sea;7501;-1;-1;-1;-1;;Avalon
 5086;3945;sea;-1;-1;-1;-1;-1;;Avalon
-3945;5105;sea;-1;-1;-1;-1;-1;;Avalon
+3945;5105;sea;7287;-1;-1;-1;-1;;Avalon
 
 2629;5285;sea;-1;-1;-1;-1;-1;;Kishka
 5282;6562;sea;-1;-1;-1;-1;-1;;Kishka
@@ -27,6 +27,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 6623;854;sea;-1;-1;-1;-1;-1;;Second Empire
 
 4404;349;sea;-1;-1;-1;-1;-1;;UN
+6479;4586;sea;-1;-1;-1;-1;-1;;UN
 
 1420;4846;sea;-1;-1;-1;-1;-1;;POIMA
 1420;3225;sea;-1;-1;-1;-1;-1;;POIMA

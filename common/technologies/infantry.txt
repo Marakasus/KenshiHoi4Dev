@@ -733,9 +733,6 @@ infantry_armor3 = {
 
 
 	advanced_special_forces = {
-		xor={
-			improved_special_forces
-		}
 
 		category_special_forces = {
 			max_organisation = 5
