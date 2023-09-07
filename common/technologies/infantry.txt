@@ -759,8 +759,8 @@ infantry_armor3 = {
 		
 		categories = {
 			mountaineers_tech
-			marine_tech
-			para_tech
+			
+			
 			cat_special_forces_generic
 		}
 		
@@ -816,7 +816,7 @@ infantry_armor3 = {
 		
 		categories = {
 			mountaineers_tech
-			marine_tech
+			
 			cat_special_forces_generic
 		}
 		
@@ -843,7 +843,7 @@ infantry_armor3 = {
 		
 		categories = {
 			mountaineers_tech
-			marine_tech
+			
 			cat_special_forces_generic
 		}
 		
